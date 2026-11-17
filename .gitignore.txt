@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+macros/*.json
+.vscode/
+venv/
