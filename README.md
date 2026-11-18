@@ -18,3 +18,10 @@ OpenMacro-RPA/
 ├── macros/              # Pasta padrão para salvar os arquivos JSON gerados
 ├── requirements.txt     # Dependências do projeto
 └── README.md            # Documentação do repositório
+
+## 🧪 Como Testar
+
+Após instalar as dependências (`pip install -r requirements.txt`), execute o menu principal:
+
+```bash
+python src/cli.py
